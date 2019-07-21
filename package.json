@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "this is the public portfolio of Phillip Geltman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hithub.com/pgeltman/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
